@@ -1,0 +1,12 @@
+﻿  Triangle2D.cpp
+  Square2D.cpp
+  Shape2D.cpp
+  Scene.cpp
+  Rectangle2D.cpp
+  Project2Main.cpp
+  Point2D.cpp
+  Color.cpp
+  Circle2D.cpp
+  Generating Code...
+  LINK : D:\Student Data\Downloads\Project 2 Solution\Project 2 Solution\Debug\Project 2.exe not found or not built by the last incremental link; performing full link
+  Project 2.vcxproj -> D:\Student Data\Downloads\Project 2 Solution\Project 2 Solution\Debug\Project 2.exe
